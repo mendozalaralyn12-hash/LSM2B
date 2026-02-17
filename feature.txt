@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 laralyn mendoza
 =======
 <?php
@@ -7,3 +8,10 @@ message
 
 ?>php
 >>>>>>> cecea7a65a81b8da4b01349b88f10f84e424a4f6
+=======
+<?php
+
+echo message
+
+?>
+>>>>>>> 02ebae0e80ded6a897ed7d6de49dd5eff02d1b9d
