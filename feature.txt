@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 laralyn mendoza
 =======
 <?php
@@ -27,3 +28,6 @@ echo "hello world"
 
 ?>
 >>>>>>> 6f05f64a1a796a766741235113805bbf59ca74f1
+=======
+print("hi")
+>>>>>>> 0007fde53bb4f428ce233d64149d21ba0422f7a3
