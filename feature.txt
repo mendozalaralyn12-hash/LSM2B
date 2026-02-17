@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 laralyn mendoza
 =======
 <?php
@@ -15,3 +16,6 @@ echo message
 
 ?>
 >>>>>>> 02ebae0e80ded6a897ed7d6de49dd5eff02d1b9d
+=======
+
+>>>>>>> 00e09cecf9a3cb0d46db4e0319f0d888b5d4fa21
